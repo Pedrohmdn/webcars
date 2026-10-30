@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+:root {
+  --swiper-navigation-color: var(--color-white);
+  --swiper-pagination-color: var(--color-white);
+}
+
+body {
+  background-color: #f1f5f9;
+}
